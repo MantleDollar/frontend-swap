@@ -13,7 +13,7 @@
     "@mui/material": "^5.4.0",
     "@mui/x-date-pickers": "^5.0.0-alpha.2",
     "@reduxjs/toolkit": "^1.4.0",
-    "@sentry/react": "^6.16.1",
+    "@sentry/react": "^7.37.1",
     "@sentry/tracing": "^6.16.1",
     "@tanstack/react-query": "^4.0.10",
     "@tanstack/react-query-devtools": "^4.0.10",
